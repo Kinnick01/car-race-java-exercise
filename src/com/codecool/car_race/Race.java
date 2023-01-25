@@ -14,6 +14,7 @@ public class Race {
      * race.
      */
     public void printRaceResults() {
+        System.out.println("Race results");
     }
 
 }
